@@ -1,0 +1,27 @@
+ProjectNextOS (android 9) is a custom x86 android system with a PC and TV interface (Android-x86 is an open source project that unofficially ports Google's Android mobile operating system to run on devices with AMD and Intel x86 processors, rather than RISC-based ARM chips)
+ Android 9 version we use Mantis Gamepad, XTKeymapper.
+ our versions offer changing houdini on the system through scripts supported armeabi-v7a and arm64-v8a processes (Houdini is an ARM translation layer for Android developed by Intel and Google to run ARM applications on x86 architecture)
+ Support Bluetooth usb and built-in wifi cards of notebooks
+ Codecs support for the main codecs in HD quality (HEVC, AVC, VP9) HEVC: can play videos on old processors and even with low frequencies with great performance
+ Widevine L3 (Widevine is a DRM-type software, or Digital Rights Management, responsible for protecting the content of any digital media and essential for playing videos in applications with protected media)
+ Version 9 offers System Bypass to several games! We also natively support call of duty, pubg, and more with emulator detection being a more secure way.
+ Easily hide root by running a script in the terminal
+ Support almost game with ARMlibs new (Ex: PUBG, CODM, COC, FREE FIRE)
+ Thanks to our exclusive Patch for codecs of our own authorship, we support applications to watch channels, series and movies
+All Based Developed by TeamBR
+
+
+Step to install with links :
+1. Create an NTFS/EXT4 (Recommended EXT4) partition with a minimum size of 32 GB
+2. Create folder with name "os"
+3. First copy root file "findme" into "os" folder
+4. Extract the OS file into the "os" folder that was created earlier
+5. Extract the "data files" into "os" folder with the desired size (example: 32GB)
+6. When everything is finished, open grub2win
+8. Add a new entry
+9. Select the submenu, title it "ProjectNextOS"
+10. Enter the code below "grub2win_code"
+11. and Save All
+12. Reboot > Enter ProjectNextOS
+
+PROUDLY POWERED BY adidya354(MEMBER{SUPERMEGAMERS})
